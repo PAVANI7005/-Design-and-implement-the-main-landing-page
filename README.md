@@ -75,3 +75,6 @@ project-folder/
 ## License
 
 This project is for educational/demo purposes.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/c0f31914-305d-45a6-8aaa-1308eecfd17a)
